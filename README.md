@@ -50,8 +50,8 @@ Install dependencies using **pip:**
 
 ## Direct download
 
-| [IntergalacticWar Source Code](https://github.com/TechWhizKid/IntergalacticWar/archive/refs/heads/main.zip) |
-|---|
+| [Source Code](https://github.com/TechWhizKid/IntergalacticWar/archive/refs/heads/main.zip) | [7z SFX archive](https://github.com/TechWhizKid/IntergalacticWar/releases/download/v.0.1.0/IntergalacticWar.exe) | [IntergalacticWar.zip](https://github.com/TechWhizKid/IntergalacticWar/releases/download/v.0.1.0/IntergalacticWar.zip)
+|---|---|---|
 
 <div align="center">
 
