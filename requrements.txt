@@ -1,22 +1,2 @@
-pygame      - 1.9.6+
-pygame-menu - 4.4.2+
-
-
-Install pygame in windows using pip:
-> pip install pygame
-
-if not working try:
-> pip install pygame -pre
-
-Install pygame-menu using pip:
-> pip install pygame-menu -U
-
-
-Install pygame in Linux or macOS using pip3:
-> pip3 install pygame
-
-If not working try:
-> pip3 install pygame -pre
-
-Install pygame-menu using pip3:
-> pip3 install pygame-menu -U
+pygame
+pygame-menu
